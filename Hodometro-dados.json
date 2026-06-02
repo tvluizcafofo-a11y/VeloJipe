@@ -1,5 +1,19 @@
 {
   "hodometroTotal": 0,
   "percursos": [],
-  "ultimaAtualizacao": null
+  "ultimaAtualizacao": null,
+  "historicoSinal": [
+    {
+      "timestamp": "2026-06-02T12:36:40.526Z",
+      "precisao": 999
+    },
+    {
+      "timestamp": "2026-06-02T12:36:45.362Z",
+      "precisao": 999
+    },
+    {
+      "timestamp": "2026-06-02T12:38:01.211Z",
+      "precisao": 999
+    }
+  ]
 }
